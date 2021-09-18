@@ -70,4 +70,4 @@ __recovery/
 modules/
 
 #Data Directory
-dados/
+dados/*.fdb
